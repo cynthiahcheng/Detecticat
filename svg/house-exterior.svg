@@ -1,0 +1,53 @@
+<svg id="HOUSE" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="311" height="366" viewBox="0 0 311 366">
+  <defs>
+    <filter id="Path_20" x="181" y="269" width="91" height="19" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_19" x="192" y="347" width="90" height="19" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_18" x="49" y="347" width="90" height="19" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(0 -0.057)">
+    <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(31 123.057)" fill="#4d4a4a" stroke="#000" stroke-width="1">
+      <rect width="249" height="237" stroke="none"/>
+      <rect x="0.5" y="0.5" width="248" height="236" fill="none"/>
+    </g>
+    <g id="Polygon_2" data-name="Polygon 2" transform="translate(0 0.057)" fill="#4d4a4a">
+      <path d="M 309.5973510742188 126.5 L 1.402650117874146 126.5 L 155.5 0.6455727219581604 L 309.5973510742188 126.5 Z" stroke="none"/>
+      <path d="M 155.5 1.2911376953125 L 2.8052978515625 126 L 308.1947021484375 126 L 155.5 1.2911376953125 M 155.5 0 L 311 127 L 0 127 L 155.5 0 Z" stroke="none"/>
+    </g>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_20)">
+    <g id="Path_20-2" data-name="Path 20" transform="translate(181 205)" fill="#fff">
+      <path d="M72,64h0Z" stroke="none"/>
+      <path d="M 0 64 L 72 64 L 0 64 Z" stroke="none"/>
+    </g>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_19)">
+    <g id="Path_19-2" data-name="Path 19" transform="translate(192 282)" fill="#fff">
+      <path d="M71,65h0Z" stroke="none"/>
+      <path d="M 0 65 L 71 65 L 0 65 Z" stroke="none"/>
+    </g>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_18)">
+    <g id="Path_18-2" data-name="Path 18" transform="translate(49 282)" fill="#fff">
+      <path d="M71,65h0Z" stroke="none"/>
+      <path d="M 0 65 L 71 65 L 0 65 Z" stroke="none"/>
+    </g>
+  </g>
+</svg>
