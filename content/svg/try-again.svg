@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="206" height="96" viewBox="0 0 206 96">
+  <defs>
+    <filter id="Rectangle_7" x="0" y="0" width="206" height="96" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="ARROW" transform="translate(5 5)">
+    <g id="TRY_AGAIN" data-name="TRY AGAIN">
+      <g transform="matrix(1, 0, 0, 1, -5, -5)" filter="url(#Rectangle_7)">
+        <g id="Rectangle_7-2" data-name="Rectangle 7" transform="translate(5 5)" fill="#8f1fff" stroke="#707070" stroke-width="1">
+          <rect width="176" height="66" rx="19" stroke="none"/>
+          <rect x="0.5" y="0.5" width="175" height="65" rx="18.5" fill="none"/>
+        </g>
+      </g>
+      <text id="TRY_AGAIN-2" data-name="TRY AGAIN" transform="translate(88 42)" fill="#fff" font-size="23" font-family="Futura-Bold, Futura" font-weight="700"><tspan x="-68.62" y="0">TRY AGAIN</tspan></text>
+    </g>
+  </g>
+</svg>
