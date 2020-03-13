@@ -29,3 +29,70 @@ body, html {
     justify-content: center;
     margin: 25px;
 }
+
+.img_content {
+    position: relative;
+}
+
+.rooms {
+    cursor:pointer;
+}
+
+#room_1 {
+    position:absolute;
+    bottom:221px;
+    left:111px;
+}
+
+#room_2 {
+    position:absolute;
+    bottom:125px;
+    left:55px;
+}
+
+#room_3 {
+    position:absolute;
+    bottom:126px;
+    left:168px;
+}
+
+#room_4 {
+    position:absolute;
+    bottom:29px;
+    left:55px;
+}
+
+#room_5 {
+    position:absolute;
+    bottom:29px;
+    left:168px;
+}
+
+.selection {
+    position:absolute;
+    right:7px;
+    top:10px;
+    cursor:pointer;
+    width:65px;
+    height:65px;
+}
+
+#selection_1 {
+    display:none;
+}
+
+#selection_2 {
+    display:none;
+}
+
+#selection_3 {
+    display:none;
+}
+
+#selection_4 {
+    display:none;
+}
+
+#selection_5 {
+    display:none;
+}
