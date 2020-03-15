@@ -4,9 +4,6 @@ body, html {
     background-color:lightblue;
 }
 
-
-
-
 .info {
     display:flex;
     flex-direction:column;

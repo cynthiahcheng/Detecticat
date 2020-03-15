@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="451.294" height="264.817" viewBox="0 0 451.294 264.817">
+  <g id="Raccoon" transform="translate(-33.982 -87.323)">
+    <path id="Path_67" data-name="Path 67" d="M411.73,221.63C409.61,197,384.35,85.76,259.63,89c-116.22-3.22-150,108-152.1,132.65s-69,78.6-69,78.6,57-5.37,85.2,24.2,135.9,25.34,135.9,25.34,107.73,4.24,135.9-25.34,85.2-24.2,85.2-24.2S413.84,246.27,411.73,221.63Z" fill="#8c8c8c" stroke="#000" stroke-miterlimit="10" stroke-width="2.83"/>
+    <path id="Path_68" data-name="Path 68" d="M435.5,258.42S390,245.6,387.76,225.68,344.09,93.39,259.63,162.56c-84.46-69.17-125.86,43.21-128.13,63.12s-47.74,32.74-47.74,32.74L38.53,300.23s56.69-6,85.2,24.2,135.9,26,135.9,26,107.39,4.23,135.9-26,85.2-24.2,85.2-24.2Z" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="2.83"/>
+    <path id="Path_69" data-name="Path 69" d="M259.63,89c-57,2.27-82.21,21.6-93,31.36C233,125.62,246,229,246,229h28.13s12-103.24,82.79-108.52C345.44,110.75,317.46,90,259.63,89Z" fill="#383838" stroke="#000" stroke-miterlimit="10" stroke-width="2.83"/>
+    <path id="Path_70" data-name="Path 70" d="M83.76,258.42s92.07-20.81,125.47-10.08c11.28-11.94,30.47-16.81,30.47-16.81s-11.25-80.18-44.42-78.48-52.14,60.44-52.14,60.44S136.7,249,83.76,258.42Z"/>
+    <path id="Path_71" data-name="Path 71" d="M436.82,258.42s-92.08-20.81-125.47-10.08c-11.29-11.94-30.48-16.81-30.48-16.81s11.25-80.18,44.42-78.48,52.14,60.44,52.14,60.44S383.87,249,436.82,258.42Z"/>
+    <ellipse id="Ellipse_89" data-name="Ellipse 89" cx="64.35" cy="51.02" rx="64.35" ry="51.02" transform="translate(195.28 229.04)" fill="#fff" stroke="#383838" stroke-miterlimit="10" stroke-width="2.83"/>
+    <g id="Group_34" data-name="Group 34">
+      <ellipse id="Ellipse_90" data-name="Ellipse 90" cx="33.35" cy="30.81" rx="33.35" ry="30.81" transform="translate(158.22 174.91)" fill="#fff"/>
+      <ellipse id="Ellipse_91" data-name="Ellipse 91" cx="26.47" cy="24.45" rx="26.47" ry="24.45" transform="translate(165.1 181.27)"/>
+      <ellipse id="Ellipse_92" data-name="Ellipse 92" cx="12.09" cy="11.17" rx="12.09" ry="11.17" transform="translate(171.67 185.23)" fill="#fff"/>
+      <ellipse id="Ellipse_93" data-name="Ellipse 93" cx="12.09" cy="7.37" rx="12.09" ry="7.37" transform="translate(195.93 209.06)" fill="#fff"/>
+    </g>
+    <g id="Group_35" data-name="Group 35">
+      <ellipse id="Ellipse_94" data-name="Ellipse 94" cx="33.35" cy="30.81" rx="33.35" ry="30.81" transform="translate(297.11 174.91)" fill="#fff"/>
+      <ellipse id="Ellipse_95" data-name="Ellipse 95" cx="26.47" cy="24.45" rx="26.47" ry="24.45" transform="translate(303.99 181.27)"/>
+      <ellipse id="Ellipse_96" data-name="Ellipse 96" cx="12.09" cy="11.17" rx="12.09" ry="11.17" transform="translate(310.57 185.23)" fill="#fff"/>
+      <ellipse id="Ellipse_97" data-name="Ellipse 97" cx="12.09" cy="7.37" rx="12.09" ry="7.37" transform="translate(334.83 209.06)" fill="#fff"/>
+    </g>
+    <path id="Path_72" data-name="Path 72" d="M303.63,290.13a1.43,1.43,0,0,0-1.93.57c-6.61,12.12-13.79,18.42-21.33,18.72-10,.38-17.9-10.07-19.32-12.09V286.07c4.18-4.68,15-13.38,39.33-16.24,10-3.38-10.23-25.3-41.17-17.11-30.94-8.19-51.14,13.73-41.17,17.11,26.16,3.07,36.72,12.92,40.17,17.23v10.27c-1.42,2-9.3,12.46-19.32,12.09-7.54-.3-14.72-6.6-21.33-18.72a1.42,1.42,0,1,0-2.49,1.36c7.13,13.07,15.11,19.86,23.72,20.19h.67c9.83,0,17.36-8.42,20.17-12.08,2.81,3.66,10.34,12.08,20.17,12.08h.67c8.61-.33,16.59-7.12,23.72-20.19a1.43,1.43,0,0,0-.56-1.93Z"/>
+    <path id="Path_73" data-name="Path 73" d="M162.72,121.53S154.18,102.59,77.65,89c-2.84,70,35.13,109.79,35.13,109.79S134.53,148.13,162.72,121.53Z" fill="#8c8c8c" stroke="#000" stroke-miterlimit="10" stroke-width="2.83"/>
+    <path id="Path_74" data-name="Path 74" d="M83.76,99.76,135.47,146s-21.32,33.27-23,41.95C112.51,187.91,83.91,154.18,83.76,99.76Z" fill="#383838"/>
+    <path id="Path_75" data-name="Path 75" d="M359.55,120.59s9-18.74,85.81-30.55C446.56,160.11,407.67,199,407.67,199S387.11,147.84,359.55,120.59Z" fill="#8c8c8c" stroke="#000" stroke-miterlimit="10" stroke-width="2.83"/>
+    <path id="Path_76" data-name="Path 76" d="M439,100.66l-52.78,45s20.54,33.76,22,42.48C408.19,188.12,437.57,155.07,439,100.66Z" fill="#383838"/>
+  </g>
+</svg>

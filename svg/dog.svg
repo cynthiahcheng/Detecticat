@@ -1,52 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
-  <defs>
-    <style>
-      .cls-1, .cls-5 {
-        fill: #38b7e8;
-        stroke: #1f7c99;
-        stroke-miterlimit: 10;
-      }
-
-      .cls-1 {
-        stroke-width: 3.38px;
-      }
-
-      .cls-2 {
-        fill: #0c0c0c;
-      }
-
-      .cls-3 {
-        fill: #fff;
-      }
-
-      .cls-4 {
-        fill: #1f7c99;
-      }
-
-      .cls-5 {
-        stroke-width: 3.62px;
-      }
-    </style>
-  </defs>
-  <g id="Dog">
-    <ellipse class="cls-1" cx="259.08" cy="244.78" rx="145.36" ry="134.2"/>
-    <ellipse class="cls-2" cx="259.08" cy="275.83" rx="41.92" ry="28.72"/>
-    <g>
-      <ellipse class="cls-3" cx="189.47" cy="225.68" rx="33.35" ry="30.81"/>
-      <ellipse cx="189.47" cy="225.68" rx="26.47" ry="24.45"/>
-      <ellipse class="cls-3" cx="181.67" cy="216.37" rx="12.09" ry="11.17"/>
-      <ellipse class="cls-3" cx="205.93" cy="236.4" rx="12.09" ry="7.37"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="433.782" height="271.78" viewBox="0 0 433.782 271.78">
+  <g id="Dog" transform="translate(-42.369 -108.89)">
+    <ellipse id="Ellipse_43" data-name="Ellipse 43" cx="145.36" cy="134.2" rx="145.36" ry="134.2" transform="translate(113.72 110.58)" fill="#38b7e8" stroke="#1f7c99" stroke-miterlimit="10" stroke-width="3.38"/>
+    <ellipse id="Ellipse_44" data-name="Ellipse 44" cx="41.92" cy="28.72" rx="41.92" ry="28.72" transform="translate(217.16 247.11)" fill="#0c0c0c"/>
+    <g id="Group_26" data-name="Group 26">
+      <ellipse id="Ellipse_45" data-name="Ellipse 45" cx="33.35" cy="30.81" rx="33.35" ry="30.81" transform="translate(156.12 194.87)" fill="#fff"/>
+      <ellipse id="Ellipse_46" data-name="Ellipse 46" cx="26.47" cy="24.45" rx="26.47" ry="24.45" transform="translate(163 201.23)"/>
+      <ellipse id="Ellipse_47" data-name="Ellipse 47" cx="12.09" cy="11.17" rx="12.09" ry="11.17" transform="translate(169.58 205.2)" fill="#fff"/>
+      <ellipse id="Ellipse_48" data-name="Ellipse 48" cx="12.09" cy="7.37" rx="12.09" ry="7.37" transform="translate(193.84 229.03)" fill="#fff"/>
     </g>
-    <g>
-      <ellipse class="cls-3" cx="329.05" cy="225.68" rx="33.35" ry="30.81"/>
-      <ellipse cx="329.05" cy="225.68" rx="26.47" ry="24.45"/>
-      <ellipse class="cls-3" cx="321.25" cy="216.37" rx="12.09" ry="11.17"/>
-      <ellipse class="cls-3" cx="345.5" cy="236.4" rx="12.09" ry="7.37"/>
+    <g id="Group_27" data-name="Group 27">
+      <ellipse id="Ellipse_49" data-name="Ellipse 49" cx="33.35" cy="30.81" rx="33.35" ry="30.81" transform="translate(295.7 194.87)" fill="#fff"/>
+      <ellipse id="Ellipse_50" data-name="Ellipse 50" cx="26.47" cy="24.45" rx="26.47" ry="24.45" transform="translate(302.58 201.23)"/>
+      <ellipse id="Ellipse_51" data-name="Ellipse 51" cx="12.09" cy="11.17" rx="12.09" ry="11.17" transform="translate(309.16 205.2)" fill="#fff"/>
+      <ellipse id="Ellipse_52" data-name="Ellipse 52" cx="12.09" cy="7.37" rx="12.09" ry="7.37" transform="translate(333.41 229.03)" fill="#fff"/>
     </g>
-    <path class="cls-2" d="M325.61,313.84a1.77,1.77,0,0,0-2.49.06c-11,11.52-22.26,17-33.58,16.4-15.59-.87-26.62-13.28-28.7-15.8V302.67a1.76,1.76,0,0,0-3.52,0V314.5c-2.09,2.52-13.12,14.93-28.7,15.8-11.31.64-22.62-4.88-33.58-16.4a1.76,1.76,0,0,0-2.55,2.43c11.09,11.65,22.64,17.54,34.37,17.54.66,0,1.33,0,2-.05,15.48-.88,26.47-11.7,30.23-16,3.75,4.26,14.75,15.08,30.23,16,.66,0,1.32.05,2,.05,11.73,0,23.28-5.89,34.37-17.54A1.77,1.77,0,0,0,325.61,313.84Z"/>
-    <ellipse class="cls-4" cx="193.83" cy="179.91" rx="42.46" ry="12.75" transform="matrix(0.98, -0.19, 0.19, 0.98, -31.2, 40.99)"/>
-    <ellipse class="cls-4" cx="321.25" cy="179.91" rx="12.75" ry="42.46" transform="translate(82.47 460.17) rotate(-78.82)"/>
-    <path class="cls-5" d="M163,138.18c.26-34.92-65.82-10.18-78.44,3.71-85.1,93.65-16,97.11,25.81,117.83C137,272.91,162.61,189.63,163,138.18Z"/>
-    <path class="cls-5" d="M355.52,138.18c-.26-34.92,65.82-10.18,78.44,3.71,85.1,93.65,16,97.11-25.81,117.83C381.52,272.91,355.91,189.63,355.52,138.18Z"/>
+    <path id="Path_42" data-name="Path 42" d="M325.61,313.84a1.77,1.77,0,0,0-2.49.06c-11,11.52-22.26,17-33.58,16.4-15.59-.87-26.62-13.28-28.7-15.8V302.67a1.76,1.76,0,0,0-3.52,0V314.5c-2.09,2.52-13.12,14.93-28.7,15.8-11.31.64-22.62-4.88-33.58-16.4a1.761,1.761,0,1,0-2.55,2.43c11.09,11.65,22.64,17.54,34.37,17.54.66,0,1.33,0,2-.05,15.48-.88,26.47-11.7,30.23-16,3.75,4.26,14.75,15.08,30.23,16,.66,0,1.32.05,2,.05,11.73,0,23.28-5.89,34.37-17.54A1.77,1.77,0,0,0,325.61,313.84Z" fill="#0c0c0c"/>
+    <ellipse id="Ellipse_53" data-name="Ellipse 53" cx="42.386" cy="12.728" rx="42.386" ry="12.728" transform="matrix(0.982, -0.19, 0.19, 0.982, 148.903, 176.047)" fill="#1f7c99"/>
+    <ellipse id="Ellipse_54" data-name="Ellipse 54" cx="12.75" cy="42.46" rx="12.75" ry="42.46" transform="translate(277.126 184.176) rotate(-78.82)" fill="#1f7c99"/>
+    <path id="Path_43" data-name="Path 43" d="M163,138.18c.26-34.92-65.82-10.18-78.44,3.71-85.1,93.65-16,97.11,25.81,117.83C137,272.91,162.61,189.63,163,138.18Z" fill="#38b7e8" stroke="#1f7c99" stroke-miterlimit="10" stroke-width="3.62"/>
+    <path id="Path_44" data-name="Path 44" d="M355.52,138.18c-.26-34.92,65.82-10.18,78.44,3.71,85.1,93.65,16,97.11-25.81,117.83C381.52,272.91,355.91,189.63,355.52,138.18Z" fill="#38b7e8" stroke="#1f7c99" stroke-miterlimit="10" stroke-width="3.62"/>
   </g>
 </svg>

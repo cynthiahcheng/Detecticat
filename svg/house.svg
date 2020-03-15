@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
-  <g id="House">
-    <rect x="95.85" y="227" width="308.3" height="247.94"/>
-    <polygon points="250 14.02 57.45 232.04 442.55 232.04 250 14.02"/>
-    <rect x="331.06" y="91.68" width="56.63" height="104.74" rx="3"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="385.1" height="460.92" viewBox="0 0 385.1 460.92">
+  <g id="House" transform="translate(-57.45 -14.02)">
+    <rect id="Rectangle_60" data-name="Rectangle 60" width="308.3" height="247.94" transform="translate(95.85 227)"/>
+    <path id="Path_62" data-name="Path 62" d="M250,14.02,57.45,232.04h385.1Z"/>
+    <rect id="Rectangle_61" data-name="Rectangle 61" width="56.63" height="104.74" rx="3" transform="translate(331.06 91.68)"/>
   </g>
 </svg>
