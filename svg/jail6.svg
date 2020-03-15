@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="112" height="86" viewBox="0 0 112 86">
+  <defs>
+    <filter id="Rectangle_27" x="0" y="0" width="112" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_28" x="17" y="0" width="21" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_29" x="74" y="0" width="21" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_30" x="55" y="0" width="21" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_31" x="36" y="0" width="21" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip">
+      <use xlink:href="#fill"/>
+    </clipPath>
+    <clipPath id="clip-2">
+      <use xlink:href="#fill-2"/>
+    </clipPath>
+    <clipPath id="clip-3">
+      <use xlink:href="#fill-3"/>
+    </clipPath>
+    <clipPath id="clip-4">
+      <use xlink:href="#fill-4"/>
+    </clipPath>
+  </defs>
+  <g id="Group_11" data-name="Group 11" transform="translate(-72 -446)">
+    <g transform="matrix(1, 0, 0, 1, 72, 446)" filter="url(#Rectangle_27)">
+      <g id="Rectangle_27-2" data-name="Rectangle 27" transform="translate(4 1)" fill="#f2f2f2" stroke="#707070" stroke-width="5">
+        <rect width="94" height="68" stroke="none"/>
+        <rect x="2.5" y="2.5" width="89" height="63" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 72, 446)" filter="url(#Rectangle_28)">
+      <g id="Rectangle_28-2" data-name="Rectangle 28" transform="translate(21 1)" fill="#f2f2f2" stroke="#707070" stroke-width="5">
+        <rect id="fill" width="3" height="68" stroke="none"/>
+        <path d="M0,2.5h3M2.5,0v68M3,65.5h-3M0.5,68v-68" fill="none" clip-path="url(#clip)"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 72, 446)" filter="url(#Rectangle_29)">
+      <g id="Rectangle_29-2" data-name="Rectangle 29" transform="translate(78 1)" fill="#f2f2f2" stroke="#707070" stroke-width="5">
+        <rect id="fill-2" width="3" height="68" stroke="none"/>
+        <path d="M0,2.5h3M2.5,0v68M3,65.5h-3M0.5,68v-68" fill="none" clip-path="url(#clip-2)"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 72, 446)" filter="url(#Rectangle_30)">
+      <g id="Rectangle_30-2" data-name="Rectangle 30" transform="translate(59 1)" fill="#f2f2f2" stroke="#707070" stroke-width="5">
+        <rect id="fill-3" width="3" height="68" stroke="none"/>
+        <path d="M0,2.5h3M2.5,0v68M3,65.5h-3M0.5,68v-68" fill="none" clip-path="url(#clip-3)"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 72, 446)" filter="url(#Rectangle_31)">
+      <g id="Rectangle_31-2" data-name="Rectangle 31" transform="translate(40 1)" fill="#f2f2f2" stroke="#707070" stroke-width="5">
+        <rect id="fill-4" width="3" height="68" stroke="none"/>
+        <path d="M0,2.5h3M2.5,0v68M3,65.5h-3M0.5,68v-68" fill="none" clip-path="url(#clip-4)"/>
+      </g>
+    </g>
+  </g>
+</svg>

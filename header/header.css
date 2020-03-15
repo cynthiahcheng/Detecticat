@@ -69,3 +69,8 @@ body, html {
 .nav_items {
     cursor:pointer;
 }
+
+.nav_link {
+    color:white;
+    text-decoration: none;
+}

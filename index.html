@@ -3,12 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
     <link rel="stylesheet" href="app.css" type="text/css"/>
+    <link href="../header/header.css" rel="stylesheet" type="text/css"/>
+    <link href="../footer/footer.css" rel="stylesheet" type="text/css"/>
     <title>Detecticat</title>
 </head>
 <body>
-    
+    <!-- Header content -->
+    <div class="header">
+        <div class="header_title">Detecticat</div>
+        <i class="material-icons" onclick="menuOpen()">menu</i>
+    </div>
+
+    <div class="nav">
+        <div class="nav_close" onclick="menuClose()">
+            <img class="close" src="svg/close.svg">
+        </div>
+        <div class="nav_sub">
+            <div class="nav_items"><a class="nav_link" href="index.html">Home</a></div>
+            <div class="nav_items"><a class="nav_link" href="about page/about-us.html">About</a></div>
+            <div class="nav_items"><a class="nav_link" href="content/content.html">Game</a></div>
+            <div class="nav_items"><a class="nav_link" href="contact page/contact-us.html">Contact Us</a></div>
+        </div>
+    </div>
+    <!-- Home page content -->
+    <div class="main_home">
+        <h1 class="home_quote">Time to solve a mystery!</h1>
+        <img class="main_cat" src="svg/detecticat.svg">
+        <a href="content/content.html">
+            <img class="start_button" src="svg/start.svg" href="content.html">
+        </a>
+    </div>
 
     <script src="app.js"></script>
+    <script src="footer/footer.js"></script>
 </body>
 </html>

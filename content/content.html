@@ -4,9 +4,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Detecticat</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
     <link href="content.css" rel="stylesheet" type="text/css"/>
+    <link href="../header/header.css" rel="stylesheet" type="text/css"/>
+    <link href="../footer/footer.css" rel="stylesheet" type="text/css"/>
+
 </head>
 <body>
+    <!-- header content start -->
+    <div class="header">
+        <div class="header_title">Detecticat</div>
+        <i class="material-icons" onclick="menuOpen()">menu</i>
+    </div>
+
+    <div class="nav">
+        <div class="nav_close" onclick="menuClose()">
+            <img class="close" src="../svg/close.svg">
+        </div>
+        <div class="nav_sub">
+            <div class="nav_items"><a class="nav_link" href="../index.html">Home</a></div>
+            <div class="nav_items"><a class="nav_link" href="../about page/about-us.html">About</a></div>
+            <div class="nav_items"><a class="nav_link" href="../content/content.html">Game</a></div>
+            <div class="nav_items"><a class="nav_link" href="../contact page/contact-us.html">Contact Us</a></div>
+        </div>
+    </div>
+    <!-- header content end -->
+
+    <!-- content start -->
     <div class="info">
         <div class="subhead">SubHead</div>
         <div class="description">This is the clue/ instructions</br>This is the clue/ instructions</br>This is the clue/ instructions</br></div>
@@ -42,7 +67,24 @@
         <div class="rooms"></div>
         <div class="rooms"></div>
     </div>
+
+    <!-- content end -->
+
+    <!-- footer start -->
+
+    <div id="footer">
+        <div class="footer_cat">
+            <img class="cat" src="../svg/cat.svg">
+        </div>
+        <div class="footer_btn">
+            <img src="../svg/arrow.svg">
+        </div>
+    </div>
+
+    <!-- footer end -->
     
+    <script src="../header/header.js"></script>
     <script src="content.js"></script>
+    
 </body>
 </html>

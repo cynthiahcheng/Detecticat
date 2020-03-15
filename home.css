@@ -3,6 +3,8 @@ body, html {
     padding:0;
 }
 
+/* Header content */
+
 .header {
     display:flex;
     justify-content: center;
