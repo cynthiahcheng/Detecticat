@@ -9,9 +9,13 @@
 }
 
 .footer_btn {
-    display:block;
     position:fixed;
     right:0;
     bottom:-11px;
     cursor:pointer;
+}
+
+.cat_icon {
+    width:150px;
+    height:150px;
 }

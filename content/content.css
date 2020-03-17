@@ -9,18 +9,21 @@ body, html {
 }
 
 .subhead {
-    font-size:25px;
+    font-size:35px;
     font-family:futura;
     color:rgb(46, 46, 46);
     font-weight:600;
     padding-top:30px;
+    display:block;
 }
 
 .description {
-    font-size:20px;
+    font-size:30px;
     font-family:futura;
     padding-top:10px;
-    line-height: 1.2;
+    margin-left:20px;
+    margin-right:20px;
+    line-height:1.5;
 }
 
 .main_img {
@@ -36,63 +39,56 @@ body, html {
 
 .rooms {
     cursor:pointer;
+    width:115px;
 }
 
 #room_1 {
     position:absolute;
-    bottom:221px;
-    left:111px;
+    bottom:239px;
+    left:134px;
+    display:block;
 }
 
 #room_2 {
     position:absolute;
     bottom:125px;
-    left:55px;
+    left:71px;
+    display:block;
 }
 
 #room_3 {
     position:absolute;
     bottom:126px;
-    left:168px;
+    left:200px;
+    display:block;
 }
 
 #room_4 {
     position:absolute;
-    bottom:29px;
-    left:55px;
+    bottom:16px;
+    left:71px;
+    display:block;
 }
 
 #room_5 {
     position:absolute;
-    bottom:29px;
-    left:168px;
+    bottom:16px;
+    left:200px;
+    display:block;
 }
 
 .selection {
     position:absolute;
-    right:7px;
-    top:10px;
+    right:25px;
+    top:17px;
     cursor:pointer;
     width:65px;
     height:65px;
 }
 
-#selection_1 {
-    display:none;
-}
-
-#selection_2 {
-    display:none;
-}
-
-#selection_3 {
-    display:none;
-}
-
-#selection_4 {
-    display:none;
-}
-
-#selection_5 {
-    display:none;
+.footer_btn2 {
+    position:fixed;
+    right:0;
+    bottom:-11px;
+    cursor:pointer;
 }

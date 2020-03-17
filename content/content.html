@@ -32,6 +32,7 @@
     <!-- header content end -->
 
     <!-- content start -->
+    <div class="content_page">
     <div class="info">
         <div class="subhead">SubHead</div>
         <div class="description">This is the clue/ instructions</br>This is the clue/ instructions</br>This is the clue/ instructions</br></div>
@@ -39,15 +40,15 @@
     <div class="main_img">
         <div class="img_content">
             <img class="main_img_content" src="../svg/house-exterior.svg">
-            <div id="room_1">
+            <div id="room_1" onclick="mouseRoom()">
                 <img class="rooms" src="../svg/room.svg">
                 <img id="selection_1" class="selection" src="../svg/selection.svg">
             </div>
-            <div id="room_2">
+            <div id="room_2" onclick="raccoonRoom()">
                 <img class="rooms" src="../svg/room.svg">
                 <img id="selection_2" class="selection" src="../svg/selection.svg">
             </div>
-            <div id="room_3">
+            <div id="room_3" onclick="bunnyRoom()">
                 <img class="rooms" src="../svg/room.svg">
                 <img id="selection_3" class="selection" src="../svg/selection.svg">
             </div>
@@ -55,36 +56,32 @@
                 <img class="rooms" src="../svg/room.svg">
                 <img id="selection_4" class="selection" src="../svg/selection.svg">
             </div>
-            <div id="room_5">
+            <div id="room_5" onclick="hamsterRoom()">
                 <img class="rooms" src="../svg/room.svg">
                 <img id="selection_5" class="selection" src="../svg/selection.svg">
             </div>
         </div>
     </div>
-    <div class="sub_img">
-        <div class="rooms"></div>
-        <div class="rooms"></div>
-        <div class="rooms"></div>
-        <div class="rooms"></div>
     </div>
-
     <!-- content end -->
 
     <!-- footer start -->
 
     <div id="footer">
         <div class="footer_cat">
-            <img class="cat" src="../svg/cat.svg">
+            <img class="cat_icon" src="../svg/cat.svg">
         </div>
-        <div class="footer_btn">
-            <img src="../svg/arrow.svg">
+        <div class="footer_btn" onclick="nextPage()">
+            <img class="foot_btn" src="../svg/arrow.svg">
+        </div>
+        <div class="footer_btn2" onclick="inductiveQ()">
+            <a href="../inductive-question/inductiveq.html"><img class="foot_btn2" src="../svg/arrow.svg"></a>
         </div>
     </div>
 
     <!-- footer end -->
-    
-    <script src="../header/header.js"></script>
     <script src="content.js"></script>
+    <script src="../header/header.js"></script>
     
 </body>
 </html>

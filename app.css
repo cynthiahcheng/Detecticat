@@ -15,25 +15,24 @@ body, html {
     margin: 13px;
     font-family: Futura;
 }
+.main {
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
 
 .main_cat {
-    display: flex;
-    position: relative;
-    width: 40%;
+    width: 310px;
     height: 100%;
-    padding: 50px;
-    margin: -4%;
-    margin-left: 28%;
+    padding: 25px;
 }
 
 .start_button {
-    display: flex;
-    position: relative; 
-    width: 27%;
-    padding: 0;
-    margin: -11%;
-    margin-left: 37%;
+    position:relative;
+    width: 300px;
     opacity: 80%;
+    bottom:105px;
     cursor:pointer;
 }
 
