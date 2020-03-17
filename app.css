@@ -9,7 +9,7 @@ body, html {
 .home_quote {
     font-size: 60px;
     display: flex;
-    position: relative;
+    position: static;
     justify-content: center;
     padding: 0px;
     margin: 13px;
